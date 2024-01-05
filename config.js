@@ -26,10 +26,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285701863281'] //ganti jadi nomor lu
-global.premium = ['6285701863281'] //nomornya samain kaya yg di atas
-global.packname = 'ZennBot MD' //ganti aja sesuai keinginan lu
-global.author = 'Zenix MD' //ganti aja
+global.owner = ['6283829102407'] //ganti jadi nomor lu
+global.premium = ['6283829102407'] //nomornya samain kaya yg di atas
+global.packname = 'Kamiya MD' //ganti aja sesuai keinginan lu
+global.author = 'Kamiya MD' //ganti aja
 global.sessionName = 'lolibot' //ini buat nama session terserah mau ganti apa nggk
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
